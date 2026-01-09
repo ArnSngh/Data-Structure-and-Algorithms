@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
