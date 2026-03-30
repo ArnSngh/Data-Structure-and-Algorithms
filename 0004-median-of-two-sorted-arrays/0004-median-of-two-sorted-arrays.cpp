@@ -1,33 +1,30 @@
+// Brute Force:
+               // 1.Merge Both Array
+              // 2.Sort them
+             // 3.Find Median
+            // TIME COMPLEXITY: O(n)+O(nlogn)+O(n)
+            // SPACE COMPLEXITY: O(1)
+ 
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        // Get the sizes of both input arrays.
-        int n = nums1.size();
-        int m = nums2.size();
-
-        // Merge the arrays into a single sorted array.
-        vector<int> merged;
-        for (int i = 0; i < n; i++) {
-            merged.push_back(nums1[i]);
-        }
-        for (int i = 0; i < m; i++) {
-            merged.push_back(nums2[i]);
-        }
-
-        // Sort the merged array.
-        sort(merged.begin(), merged.end());
-
-        // Calculate the total number of elements in the merged array.
-        int total = merged.size();
-
-        if (total % 2 == 1) {
-            // If the total number of elements is odd, return the middle element as the median.
-            return static_cast<double>(merged[total / 2]);
-        } else {
-            // If the total number of elements is even, calculate the average of the two middle elements as the median.
-            int middle1 = merged[total / 2 - 1];
-            int middle2 = merged[total / 2];
-            return (static_cast<double>(middle1) + static_cast<double>(middle2)) / 2.0;
-        }
+       // Initialization some neccessary variables
+        vector<int>v;
+        
+        // store the array in the new array
+        for(auto num:nums1)   // O(n1)
+            v.push_back(num);
+        
+        for(auto num:nums2)  // O(n2)
+            v.push_back(num);
+        
+        // Sort the array to find the median
+        sort(v.begin(),v.end());  // O(nlogn)
+        
+        // Find the median and Return it
+        int n=v.size();  // O(n)
+        
+        return n%2?v[n/2]:(v[n/2-1]+v[n/2])/2.0;
     }
 };
+
