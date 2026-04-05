@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0057-insert-interval) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -210,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
