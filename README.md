@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0043-multiply-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
