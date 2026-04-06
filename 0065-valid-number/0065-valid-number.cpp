@@ -1,44 +1,69 @@
 class Solution {
 public:
     bool isNumber(string s) {
-        // 1. string should have only engish char i.e. e E
-        // 2. e must have some prefix and suffix
-        // 3. suffix of e must not contains any decimal i.e. (.)
-        // 4. +- or -+ are not allowed (2 otherations or sign togather)
-        // 5. only 1 e should be present in string 
-        // 6. only 1 . should exist in the string
-        // 7. +/- must be at start or followed by e
+        int i=0, n=s.size();
 
-        bool numSeen = false;
-        bool dotSeen = false;
-        bool eSeen = false;
-        bool numAfterE = true;
+        // iterate over sign
+        if(s[i]=='+' || s[i]=='-') i++;
 
-        for (int i = 0; i < s.size(); i++) {
-            char c = s[i];
+        // checking ending condition
+        if(i>=n) return false;
+        
+        bool beforeInt = false;
 
-            if (isdigit(c)) {
-                numSeen = true;
-                numAfterE = true;
-            }
-            else if (c == '.') {
-                if (dotSeen || eSeen) return false;
-                dotSeen = true;
-            }
-            else if (c == 'e' || c == 'E') {
-                if (eSeen || !numSeen) return false;
-                eSeen = true;
-                numAfterE = false;
-            }
-            else if (c == '+' || c == '-') {
-                if (i > 0 && s[i - 1] != 'e' && s[i - 1] != 'E')
-                    return false;
-            }
-            else {
-                return false;
-            }
+        // iterating digits
+        while(s[i]>='0' && s[i]<='9' && i<n){
+            i++;
+            beforeInt = true;
         }
 
-        return numSeen && numAfterE;
+        // checking ending condition
+        if(i>=n) return true;
+
+        // Passing dot
+        bool dot = false;
+        if(s[i] == '.') {i++; dot = true;}
+
+        // check dot ending condition
+        if(i>=n)
+            if(dot==true && beforeInt==false) return false;
+            else return true;
+        
+        // bool afterInt = false;
+
+        // check digit after dot
+        if(dot) 
+        if(beforeInt) {if((s[i]<'0' || s[i]>'9') && (s[i]!='e' && s[i]!='E') ) return false; }
+        else {if(s[i]<'0' || s[i]>'9') return false; }
+
+        // iterate decimals until we reach last indext or e
+        while(i<n && s[i]!='e' && s[i]!='E'){
+            if(s[i]<'0' || s[i]>'9') return false;
+            i++;
+        }
+        if(!dot)
+        if((s[i]=='e' || s[i]=='E') && beforeInt==false) return false;
+        // checking ending condition
+        if(i>=n) return true;
+        
+        i++; // next ot e
+        
+        // iterate sign
+        if(s[i]=='+' || s[i]=='-') i++;
+
+        // checking ending condition
+        if(i>=n) return false;
+
+        bool lastInt = false;
+        // iterate over digits
+        while(s[i]>='0' && s[i]<='9' && i<n){
+            i++;
+            lastInt = true;
+        }
+
+        if(!lastInt) return false;
+
+        if(i>=n) return true;
+        return false;
     }
 };
