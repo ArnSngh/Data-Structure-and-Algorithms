@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
