@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
