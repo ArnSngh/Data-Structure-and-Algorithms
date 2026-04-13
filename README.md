@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0118-pascals-triangle) |
 ## Recursion
 |  |
 | ------- |
