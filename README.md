@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0097-interleaving-string) |
 | [0126-word-ladder-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -410,4 +412,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
