@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
