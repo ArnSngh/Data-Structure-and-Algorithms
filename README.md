@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 ## Matrix
 |  |
 | ------- |
@@ -503,8 +504,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
