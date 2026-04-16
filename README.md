@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
