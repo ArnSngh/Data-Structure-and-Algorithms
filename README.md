@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -480,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
