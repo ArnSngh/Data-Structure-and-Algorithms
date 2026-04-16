@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0133-clone-graph) |
 | [0187-repeated-dna-sequences](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
