@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 ## Matrix
 |  |
 | ------- |
