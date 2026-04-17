@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
