@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0206-reverse-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
