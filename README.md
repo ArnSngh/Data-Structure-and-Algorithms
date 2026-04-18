@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
