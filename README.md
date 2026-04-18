@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0313-super-ugly-number) |
+| [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
 ## Trie
 |  |
 | ------- |
