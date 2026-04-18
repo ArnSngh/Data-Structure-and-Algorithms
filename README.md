@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 ## Tree
 |  |
 | ------- |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 ## Union-Find
 |  |
 | ------- |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 ## Design
 |  |
 | ------- |
