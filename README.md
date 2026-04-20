@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -615,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
