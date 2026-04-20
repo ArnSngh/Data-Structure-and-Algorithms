@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0372-super-pow](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0372-super-pow) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
 | ------- |
