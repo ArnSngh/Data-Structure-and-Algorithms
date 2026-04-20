@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
 | ------- |
