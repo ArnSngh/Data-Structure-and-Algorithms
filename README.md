@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 ## Tree
 |  |
 | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 ## Union-Find
 |  |
 | ------- |
