@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0313-super-ugly-number) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -592,4 +596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+## Ordered Set
+|  |
+| ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 <!---LeetCode Topics End-->
