@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Recursion
 |  |
