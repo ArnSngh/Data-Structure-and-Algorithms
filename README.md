@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 ## String
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Recursion
 |  |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
