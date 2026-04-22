@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
