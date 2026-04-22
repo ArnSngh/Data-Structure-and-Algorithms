@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0390-elimination-game](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0390-elimination-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0390-elimination-game) |
 ## Trie
 |  |
 | ------- |
