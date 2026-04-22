@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0372-super-pow) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
