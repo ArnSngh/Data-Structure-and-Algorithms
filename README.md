@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0393-utf-8-validation](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0393-utf-8-validation) |
 ## String
 |  |
 | ------- |
