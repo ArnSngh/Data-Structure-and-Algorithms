@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0415-add-strings) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0415-add-strings) |
 ## Combinatorics
 |  |
 | ------- |
