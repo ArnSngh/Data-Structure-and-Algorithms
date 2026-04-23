@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
