@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
