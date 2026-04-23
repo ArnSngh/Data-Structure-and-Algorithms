@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0393-utf-8-validation) |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 ## Tree
 |  |
 | ------- |
@@ -594,11 +597,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
@@ -606,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -658,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
