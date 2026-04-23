@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 ## Tree
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+| [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 ## Union-Find
 |  |
 | ------- |
