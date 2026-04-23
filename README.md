@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Recursion
 |  |
