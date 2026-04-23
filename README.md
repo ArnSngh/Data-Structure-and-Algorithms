@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0419-battleships-in-a-board) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
