@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0420-strong-password-checker) |
+| [0434-number-of-segments-in-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 ## Divide and Conquer
 |  |
