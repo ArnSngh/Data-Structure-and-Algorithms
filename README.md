@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0419-battleships-in-a-board) |
+| [0566-reshape-the-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 ## Combinatorics
 |  |
 | ------- |
