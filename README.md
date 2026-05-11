@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0566-reshape-the-matrix) |
+| [2553-separate-the-digits-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
