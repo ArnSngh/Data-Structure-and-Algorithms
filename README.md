@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
