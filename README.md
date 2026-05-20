@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
 | ------- |
