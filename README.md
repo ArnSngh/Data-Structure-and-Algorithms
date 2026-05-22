@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0344-reverse-string) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
