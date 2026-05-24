@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
+| [1021-remove-outermost-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
 |  |
 | ------- |
