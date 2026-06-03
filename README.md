@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0419-battleships-in-a-board) |
+| [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
