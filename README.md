@@ -742,4 +742,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
+## Database
+|  |
+| ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 <!---LeetCode Topics End-->
