@@ -1,36 +1,46 @@
 class Solution {
-    int solve(vector<int> &nums, int target, int index, vector<vector<int>> & dp){
-         if(target == 0){
-            return true;
-        }
-        if(index == nums.size()){
-            return false;
-        }
-        if(dp[index][target] != -1){
-            return dp[index][target]; // it will never return -1 , only return 0 and 1
-        }
-       
-        bool pick = false;
-        if(nums[index] <= target){
-            pick = solve(nums, target - nums[index], index +1, dp);
-        }
-        bool unpick = solve(nums, target, index +1, dp);
+    bool solve(vector<int> &nums, int target) {
 
-        return dp[index][target] =  pick || unpick;
+        int n = nums.size();
 
+        vector<vector<bool>> dp(n + 1, vector<bool>(target + 1, false));
+
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = true;
+        }
+
+        for (int index = n - 1; index >= 0; index--) {
+
+            for (int t = 1; t <= target; t++) {
+
+                bool pick = false;
+
+                if (nums[index] <= t) {
+                    pick = dp[index + 1][t - nums[index]];
+                }
+
+                bool unpick = dp[index + 1][t];
+
+                dp[index][t] = pick || unpick;
+            }
+        }
+
+        return dp[0][target];
     }
+
 public:
     bool canPartition(vector<int>& nums) {
-        
+
         int sum = 0;
-        for(int i = 0; i<nums.size(); i++){
-            sum = sum + nums[i];
+
+        for (int x : nums) {
+            sum += x;
         }
-        vector<vector<int>> dp(nums.size(), vector<int>(sum+1, -1));
-        if(sum%2 != 0){
+
+        if (sum % 2 != 0) {
             return false;
         }
-        return solve(nums, sum/2, 0, dp);
-        
+
+        return solve(nums, sum / 2);
     }
 };
