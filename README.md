@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0368-largest-divisible-subset](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0241-different-ways-to-add-parentheses) |
 | [0313-super-ugly-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
