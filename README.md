@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0455-assign-cookies](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0566-reshape-the-matrix) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
