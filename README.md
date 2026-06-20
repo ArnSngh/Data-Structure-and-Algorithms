@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0609-find-duplicate-file-in-system) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
