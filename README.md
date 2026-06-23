@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0609-find-duplicate-file-in-system) |
 | [0704-binary-search](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Recursion
