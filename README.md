@@ -625,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0419-battleships-in-a-board) |
+| [0543-diameter-of-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 ## Tree
 |  |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 ## Binary Search Tree
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 ## Breadth-First Search
 |  |
