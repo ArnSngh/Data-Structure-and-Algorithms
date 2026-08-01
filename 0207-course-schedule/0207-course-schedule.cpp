@@ -1,33 +1,48 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        int P = prerequisites.size();
-        int N = numCourses;
-        vector<int> adj[N];
-        vector<int> indeg(N, 0);
-        for (int i = 0; i < P; i++) {
-            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
-            indeg[prerequisites[i][0]]++;
+
+        vector<vector<int>> adjlist(numCourses);
+        vector<int> indegree(numCourses, 0);
+
+        for (int index = 0; index < prerequisites.size(); index++) {
+
+            int course = prerequisites[index][0];
+            int precourse = prerequisites[index][1];
+
+            adjlist[precourse].push_back(course);
+            indegree[course]++;
         }
+
         queue<int> q;
-        int count = 0;
-        for (int i = 0; i < N; i++) {
-            if (indeg[i] == 0) {
+
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
                 q.push(i);
             }
         }
+
+        int completedCourses = 0;
+
         while (!q.empty()) {
+
             int node = q.front();
             q.pop();
-            count++;
-            for (int j = 0; j < adj[node].size(); j++) {
-                indeg[adj[node][j]]--;
-                if (!indeg[adj[node][j]]) {
-                    q.push(adj[node][j]);
+
+            completedCourses++;
+
+            for (int i = 0; i < adjlist[node].size(); i++) {
+
+                int neighbour = adjlist[node][i];
+
+                indegree[neighbour]--;
+
+                if (indegree[neighbour] == 0) {
+                    q.push(neighbour);
                 }
             }
         }
 
-        return count == N;
+        return completedCourses == numCourses;
     }
 };
