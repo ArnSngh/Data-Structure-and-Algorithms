@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0606-construct-string-from-binary-tree) |
 | [0609-find-duplicate-file-in-system](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0609-find-duplicate-file-in-system) |
+| [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
@@ -867,4 +871,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
