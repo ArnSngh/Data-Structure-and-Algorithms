@@ -1,34 +1,26 @@
 class Solution {
-private:
-    void transpose(vector<vector<int>>& matrix) {
-        for (int i = 0; i < matrix.size(); ++i) {
-            for (int j = i; j < matrix[0].size(); ++j) {
-                int temp = matrix[i][j];
-                matrix[i][j] = matrix[j][i];
-                matrix[j][i] = temp;
-            }
-        }
-    }
-
-    void reverseRows(vector<vector<int>>& matrix) {
-        for (int r = 0; r < matrix.size(); ++r) {
-            int left = 0;
-            int right = matrix.size() - 1;
-
-            while (left < right) {
-                int temp = matrix[r][left];
-                matrix[r][left] = matrix[r][right];
-                matrix[r][right] = temp;
-
-                ++left;
-                --right;
-            }
-        }
-    }
-
 public:
     void rotate(vector<vector<int>>& matrix) {
-        transpose(matrix);
-        reverseRows(matrix);
+        //first lets take transpose
+        int n = matrix.size();
+        for(int i = 0; i<n; i++){
+            for(int j = i+1; j<n; j++){
+                swap(matrix[i][j], matrix[j][i]);
+            }
+        }
+
+        // then reverse the matrix;
+        int l = 0;
+        int r = n-1;
+        int i = 0;
+
+        while(r>l){
+            for(int i = 0; i<n; i++){
+                swap(matrix[i][l],matrix[i][r]);
+            }
+            l++;
+            r--;
+        }
+        
     }
 };
