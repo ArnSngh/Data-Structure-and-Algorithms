@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0200-number-of-islands) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0372-super-pow) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0229-majority-element-ii) |
 ## Iterator
 |  |
@@ -882,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
