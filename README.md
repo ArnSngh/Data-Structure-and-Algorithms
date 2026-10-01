@@ -893,4 +893,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0169-majority-element) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
