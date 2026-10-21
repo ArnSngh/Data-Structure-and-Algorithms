@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1021-remove-outermost-parentheses](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ArnSngh/Data-Structure-and-Algorithms/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
